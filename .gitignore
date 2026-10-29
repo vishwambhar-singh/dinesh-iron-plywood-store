@@ -1,0 +1,11 @@
+.env
+node_modules/
+dist/
+build/
+*.log
+/Advanced-Inventory-System/
+
+# Sensitive & environment files
+*.pem
+live_full.sql
+.DS_Store
